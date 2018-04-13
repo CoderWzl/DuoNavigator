@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/navigator_tab"
+    android:layout_width="@dimen/duo_navigator_width"
+    android:layout_height="@dimen/duo_navigator_width">
+
+    <ImageView
+        android:id="@+id/navigator_tab_icon"
+        android:layout_width="@dimen/navigator_tab_img_width"
+        android:layout_height="@dimen/navigator_tab_img_height"
+        android:layout_gravity="center"
+        android:scaleType="centerInside"/>
+
+</FrameLayout>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="duo_navigator_width">80dp</dimen>
+    <dimen name="navigator_tab_img_width">65dp</dimen>
+    <dimen name="navigator_tab_img_height">65dp</dimen>
+</resources>
